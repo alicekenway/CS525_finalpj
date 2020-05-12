@@ -10,3 +10,5 @@ pip install pandas
 pip install gensim
 
 File paperFrame2.csv need to be in the same folder with docTvec.py and result.py
+paperFrame2.csv can be downloaded at 
+https://drive.google.com/file/d/11gE-qSoao3sjkhXGevGEEWasgecaN0rG/view?usp=sharing
