@@ -4,10 +4,10 @@
 
 
 ## docTvec.py & result.py
-The docTvec.py is the training program of doc2vec model, and result.py is for prediction Gensim, Numpy, and Pandas are required to run the programs.
-pip install numpy
-pip install pandas
-pip install gensim
+The docTvec.py is the training program of doc2vec model, and result.py is for prediction Gensim, Numpy, and Pandas are required to run the programs.\n
+pip install numpy\n
+pip install pandas\n
+pip install gensim\n
 
 File paperFrame2.csv need to be in the same folder with docTvec.py and result.py.
 PaperFrame2.csv can be downloaded at 
