@@ -23,3 +23,4 @@ It will write a csv file in the same location where you ran the previous code. <
 Before the next step, install torch version 1.6, cdqa, pandas and ast. Note: install torch before cdqa as it is dependent on it. <br />
 Finally, run BERTcdqa in the same location as the csv file. Output are the results required. <br />
 Note: The results may slightly vary as the dataset is updated frequently. <br />
+My results are in BERTresults.txt.<br />
