@@ -28,7 +28,7 @@ pip install ktrain <br />
 File paperFrame2.csv need to be in the same folder with "covid19 LDA Final.ipynb". <br />
 
 ## covid19 tf-idf Final.ipynb
-This is the training program of tf-idf model. <br />
+This is the training program of TF-IDF model. <br />
 sklearn, nltk, scipy, Numpy, and Pandas, json, math, glob, matplotlib and wordcloud are required to run the programs. <br />
 
 pip install numpy <br />
