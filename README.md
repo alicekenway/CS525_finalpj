@@ -4,7 +4,8 @@
 
 
 ## docTvec.py & result.py
-The docTvec.py is the training program of doc2vec model, and result.py is for prediction Gensim, Numpy, and Pandas are required to run the programs. <br />
+The docTvec.py is the training program of doc2vec model, and result.py is for prediction.<br /> 
+Gensim, Numpy, and Pandas are required to run the programs. <br />
 pip install numpy <br />
 pip install pandas <br />
 pip install gensim <br />
@@ -29,8 +30,8 @@ File paperFrame2.csv need to be in the same folder with "covid19 LDA Final.ipynb
 
 ## covid19 tf-idf Final.ipynb
 This is the training program of TF-IDF model. <br />
+To run this code, first download the dataset from cord-19 challenge from https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge and extract it in the same directory as "covid19 tf-idf Final.ipynb"<br />
 sklearn, nltk, scipy, Numpy, and Pandas, json, math, glob, matplotlib and wordcloud are required to run the programs. <br />
-
 pip install numpy <br />
 pip install pandas <br />
 pip install sklearn <br />
